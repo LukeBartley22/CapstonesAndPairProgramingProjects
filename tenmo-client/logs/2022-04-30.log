@@ -1,0 +1,7 @@
+2022-04-30T12:17:57.6311729 500 : [{"timestamp":"2022-04-30T16:17:57.609+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; SQL [INSERT INTO transfer(transfer_type_id, transfer_status_id, account_... (471 bytes)]
+2022-04-30T12:57:01.5897873 500 : [{"timestamp":"2022-04-30T16:57:01.563+00:00","status":500,"error":"Internal Server Error","message":"No message available","path":"/transfers/"}]
+2022-04-30T13:49:11.2973489 500 : [{"timestamp":"2022-04-30T17:49:07.316+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; SQL [INSERT INTO transfer(transfer_type_id, transfer_status_id, account_... (569 bytes)]
+2022-04-30T13:57:28.6744488 500 : [{"timestamp":"2022-04-30T17:57:28.643+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; SQL [INSERT INTO transfer(transfer_type_id, transfer_status_id, account_... (569 bytes)]
+2022-04-30T14:00:11.167203 500 : [{"timestamp":"2022-04-30T18:00:11.141+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; SQL [INSERT INTO transfer(transfer_type_id, transfer_status_id, account_... (569 bytes)]
+2022-04-30T14:10:56.8498024 500 : [{"timestamp":"2022-04-30T18:10:56.820+00:00","status":500,"error":"Internal Server Error","message":"Transfer not logged.","path":"/transfers/"}]
+2022-04-30T14:11:23.1976828 500 : [{"timestamp":"2022-04-30T18:11:23.196+00:00","status":500,"error":"Internal Server Error","message":"Transfer not logged.","path":"/transfers/"}]

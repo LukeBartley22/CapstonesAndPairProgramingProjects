@@ -1,0 +1,4 @@
+2022-04-29T09:30:56.5184259 404 : [{"timestamp":"2022-04-29T13:30:56.480+00:00","status":404,"error":"Not Found","message":"No message available","path":"/transfers"}]
+2022-04-29T09:46:55.0802083 404 : [{"timestamp":"2022-04-29T13:46:55.055+00:00","status":404,"error":"Not Found","message":"No message available","path":"/transfers"}]
+2022-04-29T09:51:05.4714458 404 : [{"timestamp":"2022-04-29T13:51:05.442+00:00","status":404,"error":"Not Found","message":"No message available","path":"/transfers"}]
+2022-04-29T16:40:20.4707027 401 : [no body]

@@ -1,0 +1,11 @@
+2022-04-27T09:15:35.3520569 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-04-27T09:16:34.6553824 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-04-27T13:38:41.2450046 500 : [{"timestamp":"2022-04-27T17:38:41.213+00:00","status":500,"error":"Internal Server Error","message":"No message available","path":"/accounts/"}]
+2022-04-27T17:08:43.3893812 404 : [{"timestamp":"2022-04-27T21:08:43.347+00:00","status":404,"error":"Not Found","message":"No message available","path":"/accounts/users"}]
+2022-04-27T17:18:03.4613144 404 : [{"timestamp":"2022-04-27T21:18:03.430+00:00","status":404,"error":"Not Found","message":"No message available","path":"/accounts/users"}]
+2022-04-27T17:18:43.0136864 404 : [{"timestamp":"2022-04-27T21:18:42.977+00:00","status":404,"error":"Not Found","message":"No message available","path":"/accounts/users"}]
+2022-04-27T17:20:41.8418112 404 : [{"timestamp":"2022-04-27T21:20:41.804+00:00","status":404,"error":"Not Found","message":"No message available","path":"/accounts/users"}]
+2022-04-27T17:26:45.3067149 404 : [{"timestamp":"2022-04-27T21:26:45.280+00:00","status":404,"error":"Not Found","message":"No message available","path":"/accounts/users"}]
+2022-04-27T17:27:40.5378928 404 : [{"timestamp":"2022-04-27T21:27:40.497+00:00","status":404,"error":"Not Found","message":"No message available","path":"/accounts/users"}]
+2022-04-27T17:32:23.284699 404 : [{"timestamp":"2022-04-27T21:31:42.884+00:00","status":404,"error":"Not Found","message":"No message available","path":"/accounts/users"}]
+2022-04-27T18:34:15.4720664 404 : [{"timestamp":"2022-04-27T22:34:15.440+00:00","status":404,"error":"Not Found","message":"No message available","path":"/accounts/users"}]
